@@ -166,7 +166,7 @@ As etapas do processo de gestão de riscos serão baseados no NIST RMF:
 | CrowdStrike | CrowdStrike Falcon | Inteligência de ameaças que contribui para a gestão de riscos e melhora a detecção de ameaças provendo dados essenciais. |
 | One Trust | OneTrust | Gerencia a privacidade e conformidades de dados sensíveis, sendo de suma importância para lidar com dados sensíveis dos clientes. |
 
-## 4 Planilha para gestão de Risco 
+## 4 Planilha para Gestão de Risco 
 
 <img width="1350" height="843" alt="Image" src="https://github.com/user-attachments/assets/9ee353a6-5e5e-4152-a76e-a702f68ae9d5" />
 
