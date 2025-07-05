@@ -168,3 +168,9 @@ As etapas do processo de gestão de riscos serão baseados no NIST RMF:
 
 ## 4 Planilha para gestão de Risco 
 
+<img width="1350" height="843" alt="Image" src="https://github.com/user-attachments/assets/9ee353a6-5e5e-4152-a76e-a702f68ae9d5" />
+
+**4.1 Matriz de Risco**
+
+<img width="560" height="144" alt="Image" src="https://github.com/user-attachments/assets/c68b409f-8c79-4ebd-82b8-bd9a9be5d0f2" />
+
